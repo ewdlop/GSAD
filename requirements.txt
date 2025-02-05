@@ -4,4 +4,4 @@ natsort==8.1.0
 scikit-image==0.18.1
 lpips==0.1.4
 kmeans_pytorch
-scikit-learn==1.0
+scikit-learn==1.5.0
